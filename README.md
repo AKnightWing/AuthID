@@ -5,7 +5,7 @@ A Python3 program to identify the author of an unknown text. This is done by ana
 
 You need python3 and nltk installed. Further, there should be 2 directories - "Train Data" and "Test Data", present in the directory where the py file is located.
 
-The directory structure is as follows:
+For example, for 3 authors, the directory structure is as follows:
 <pre>
 <ANY FOLDER>
 ├── AuthID.py
@@ -20,11 +20,11 @@ The directory structure is as follows:
 │   │     └──── known_text_2.txt
 │   │
 │   └── Author#3/
-│   │     ├──── known_text_1.txt
-│   │     ├──── known_text_2.txt
-│   │     ├──── known_text_3.txt
-│   │     └──── known_text_4.txt
-│   │
+│         ├──── known_text_1.txt
+│         ├──── known_text_2.txt
+│         ├──── known_text_3.txt
+│         └──── known_text_4.txt
+│    
 └── Test Data/
     ├── unknown_text1.txt
     ├── unknown_text2.txt
