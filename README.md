@@ -53,4 +53,4 @@ Siddharth Chaini
 &
 Siddharth Bachoti
 
-IISER Bhopal.
+IISER Bhopal
