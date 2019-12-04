@@ -24,7 +24,6 @@ https://github.com/AKnightWing/AuthID
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Author
+## Authors
 Siddharth Chaini
-
 Siddharth Bachoti
