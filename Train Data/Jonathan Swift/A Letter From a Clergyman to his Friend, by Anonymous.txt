@@ -1,0 +1,1717 @@
+﻿Project Gutenberg's A Letter From a Clergyman to his Friend,, by Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: A Letter From a Clergyman to his Friend,
+       with an Account of the Travels of Captain Lemuel Gulliver
+
+Author: Anonymous
+
+Editor: Martin Kallich
+
+Release Date: June 21, 2009 [EBook #29189]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LETTER FROM A CLERGYMAN ***
+
+
+
+
+Produced by Chris Curnow, Stephanie Eason, Joseph Cooper
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+  THE AUGUSTAN REPRINT SOCIETY
+
+
+  A
+  LETTER
+  FROM A
+  Clergyman to his Friend,
+  WITH AN ACCOUNT OF
+  THE TRAVELS
+  OF
+  Captain _LEMUEL GULLIVER_.
+
+  (Anonymous)
+
+  (1726)
+
+
+  _Introduction by_
+  MARTIN KALLICH
+
+
+  PUBLICATION NUMBER 143
+  WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+  UNIVERSITY OF CALIFORNIA, LOS ANGELES
+  1970
+
+
+
+
+  GENERAL EDITORS
+
+  William E. Conway, _William Andrews Clark Memorial Library_
+  George Robert Guffey, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+
+
+  ASSOCIATE EDITOR
+
+  David S. Rodes, _University of California, Los Angeles_
+
+
+  ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of Virginia_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Earl Miner, _University of California, Los Angeles_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  Lawrence Clark Powell, _William Andrews Clark Memorial Library_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+  Robert Vosper, _William Andrews Clark Memorial Library_
+
+
+  CORRESPONDING SECRETARY
+
+  Edna C. Davis, _William Andrews Clark Memorial Library_
+
+
+  EDITORIAL ASSISTANT
+
+  Roberta Medford, _William Andrews Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+     We have a Book lately publish'd here which hath of late taken up
+     the whole conversation of the town. Tis said to be writ by Swift.
+     It is called, The travells of Lemuell Gulliver in two Volumes. It
+     hath had a very great sale. People differ vastly in their
+     opinions of it, for some think it hath a great deal of wit, but
+     others say, it hath none at all.
+
+  John Gay to James Dormer (22 November 1726)
+
+
+As Gay's letter suggests, details concerning the contemporary
+reception of _Gulliver's Travels_ exhibit two sides of Jonathan
+Swift's character--the pleasant (that is, merry, witty, amusing) and
+the unpleasant (that is, sarcastic, envious, disaffected). A person
+with a powerful ego and astringent sense of humor, Swift must have
+been a delightful friend, if somewhat difficult, but also a dangerous
+enemy. _A Letter from a Clergyman_ (1726), here reproduced in a
+facsimile of its first and only edition, is a reaction typical of
+those who regard Swift and the sharp edge of his satire with great
+suspicion and revulsion. It displays the dangerously Satanic aspect of
+Swift--that side of his character which for some people represented
+the whole man since the allegedly blasphemous satire in _A Tale of a
+Tub_, published and misunderstood early in his career, critically
+affected, even by his own admission, his employment in the Church. It
+is this evil character of the author, the priest with an indecorous
+and politically suspect humor, that offended some contemporary
+readers. To them, the engraved frontispiece of Jonathan Smedley's
+scurrilous _Gulliveriana_ (1728) is the proper image of the author of
+the _Travels_. It portrays Swift in a priest's vestments that barely
+conceal a cloven hoof.
+
+In the following pages, we shall define the historical context of the
+clergyman's _Letter_ and illuminate the nature of the literary warfare
+in which Swift was an energetic if not particularly cheerful
+antagonist when _Gulliver's Travels_ was published late in 1726.
+
+In another letter, Gay remarked to Swift (17 November 1726) that "The
+Politicians to a man agree, that it [the _Travels_] is free from
+particular reflections"; nevertheless some "people of greater
+perspicuity" would "search for particular applications in every
+leaf." He also predicted that "we shall have keys publish'd to give
+light into Gulliver's design." His prediction was correct, for it was
+not long before four _Keys_, the earliest commentary in pamphlet form
+on the _Travels_, were published by a Signor Corolini, undoubtedly a
+pseudonym for Edmund Curll, the London printer and bookseller. But
+surprisingly, the observations do not exhibit Swift in a harsh
+factional light. As a matter of fact, in his introduction to the
+_Keys_, which are entitled _Lemuel Gulliver's Travels into Several
+Remote Nations of the World. Compendiously Methodized, For Publick
+Benefit: With Observations and Explanatory Notes Throughout_ (1726),
+Curll flatters Swift as possessing "the true Vein of Humour and polite
+Conversation" (I, 4). Regarding the _Travels_, he observes, "The Town
+are infinitely more eager after them than they were after _Robinson
+Crusoe_" (I, 5).
+
+In general, the _Keys_ are pleasantly written, including no nasty
+innuendoes critical of Swift's high-church sectarian zeal or his
+high-flying Tory political sympathies. They may be considered a
+frankly commercial venture meant to exploit the popularity of the
+_Travels_. Curll merely summarizes the narratives, occasionally
+providing substantial extracts or sprinkling explanatory comments on
+some allusions that attract him. Some of the annotations are
+ridiculous, or curious, like the equations of Blefuscu with Scotland,
+of the storm Gulliver passes through before reaching Brobdingnag with
+"the _South-Sea_ and _Mississippi_ Confusion," and of the giants with
+inflated South Sea stock (II, 4). Some remarks, however, appear
+convincing, such as his belief that "the _trifling Transactions_ of
+the present _English Royal Society_" on insects and fossils are
+"finely rallied" (II, 11-12). Curll also notes about the third voyage
+that "besides the political Allegory, Mr. _Gulliver_ has many shrewd
+Remarks upon Men and Books, Sects, Parties, and Opinions" (III,
+10-11). Concerning the fourth, he equates the good Portuguese Captain
+Don Pedro with the Dean's "good Friend the Earl of _P[eterboroug]h_"
+(IV, 26). The Roman Catholic Peterborough, we recall, fought in Spain
+and was also Pope's good friend.
+
+Other more suggestive comments on Swift's political meaning may be
+cited. For example, the "_ancient Temple_" in which Gulliver is housed
+in Lilliput, a structure "_polluted ... by an unnatural Murder_," he
+identifies as "the _Banquetting-House_ at _White-Hall_, before which
+Structure, King CHARLES I was Beheaded" (I, 7-8). This allusion to
+"the _Royal-Martyr_" (III, 32) may be considered a modest clue to
+Swift's Toryism, and it is associated with the Jacobitism of which his
+Whiggish enemies accused him. Yet an unusual reading of the
+Struldbruggs in the third voyage (particularly the controls imposed on
+the senile creatures in order to prevent their engrossing the civil
+power) as an attack on the religious dissenters demonstrates that
+Curll and Swift agreed on the issue of an established church. The
+clergy who wished to separate state from church, or as Curll describes
+the situation,
+
+     that implacable Spirit and Rancour ... [of] those _English_
+     Ecclesiasticks, who have asserted the _Independency_ of the
+     _Church_ upon the _State_ ... ought to the latest Posterity in
+     _England_, to be called _Struldbruggs_. For it will be found ...
+     that, _whenever they assume the_ Civil Power, _their want_ of
+     Abilities _to_ manage, _must end in the_ Ruin _of the_ Publick.
+     (III, 32)
+
+
+Indeed, among the most interesting of Currl's annotations are those
+which suggest that a religious reading of the _Travels_ was by no
+means unappreciated by Swift's contemporaries. Thus, again, besides
+his unusual politico-religious comment on the Struldbruggs, Curll is
+fairly sharp in his annotation of the passage on religious differences
+in Chapter V of the fourth voyage, concerning "_Transubstantiation_ as
+believed by the _Papists_," "Cathedral-worship," kissing the Crucifix,
+vestments,--and resulting furious religious wars (IV, 12-13). All in
+all, however, the _Keys_ are singularly shallow and agreeably bland.
+Curll simply agrees with Gulliver-Swift, and reinforces the meaning by
+practically repeating the text, as he does at this point when
+deploring inessential differences in ritual as needless causes of
+cruel conflict. Although Curll was aware of the presence of politics
+and religion in Swift's allegories, his annotations do not reflect
+unfavorably on Swift's character.
+
+But it was not long before an attack on Swift was mounted. It began
+with _A Letter from a Clergyman to His Friend, With an Account of the
+Travels of Capt. Lemuel Gulliver: And a Character of the Author. To
+Which is Added, The True Reasons Why a Certain Doctor Was Made a Dean_
+(1726)--the first substantial attack on Swift resulting from the
+publication of his most celebrated work. The identity of the author is
+unknown. Steele, Swift's implacable political enemy, had retired to
+the country at this time and was soon to die. Because of the numerous
+references to Swift's treacherous disloyalty to Steele's friendship,
+we could speculate on a connection between the anonymous author and
+Steele and infer that it was a friendly relationship.
+
+The long and breathless title underlines the malicious content of this
+polemical pamphlet, a pungent libel on Swift's character that includes
+cutting observations on Swift's chief fiction as well. Obviously, the
+author's intent is to vilify Swift in retaliation for attacks on the
+writer's friends. Inspired by the publication of the _Travels_, he
+presents a crudely defamatory "Character of the Author." He claims an
+acquaintance with Swift "in publick and private Life" (p. 4) but
+offers no evidence to substantiate this claim. Drawing from common
+knowledge, he simply cites the well-known negative evidence of _A Tale
+of a Tub_, in which Swift, he indignantly asserts like Swift's former
+enemy William Wotton, "levelled his Jests at Almighty God; banter'd
+and ridiculed Religion," thereby offending Queen Anne and blocking his
+own church preferment (p. 19). Except for "some gross Words, and lewd
+Descriptions, and had the Inventor's Intention been innocent" (p. 6
+[note the suspicion of Swift's political and religious bias]), the
+author is mildly pleased with the first three voyages. But he finds
+intolerable the satire on human nature in the last, here echoing
+Addison's criticism of the demoralizing effect of a satire on mankind
+(_Spectator 249_, 5 December 1711).
+
+However, Swift's "Intention" in the first three voyages is, he angrily
+declares, tinctured by his poisonous malice and envy, the result of
+twelve years of exile. He is positive of the identity of the vicious
+person behind the mask of the imaginary memoirist:
+
+     Here, Sir, you may see a reverend Divine, a dignify'd Member of
+     the Church unbosoming himself, unloading his Breast, discovering
+     the true Temper of his Soul, drawing his own Picture to the Life;
+     here's no Disguise, none could have done it so well as
+     himself.... (p. 8)
+
+He detects envy in what he believes is the incendiary narrator of the
+_Travels_, and insists that by siding with the enemies of the nation,
+meaning France, Swift was "endeavouring to ruin the _British_
+Constitution, set aside the _Hanover_ Succession, and bring in a
+[tyrannical] Popish Pretender," and, of course, "destroy our Church
+Establishment" (pp. 14, 8-9). Thereupon, he furiously threatens Swift
+with punishment for his pernicious attack on the government, that is,
+the present political administration. Clearly motivated by
+politico-religious fears, this Whig militantly defends not only the
+Protestant succession but also the ministry of Sir Robert
+Walpole--which the numerous allusions to the "_Great Man_" and "the
+greatest Man this Nation ever produced" (p. 15) confirm. Swift's mean
+character of Flimnap, the Lilliputian Prime Minister, stung badly:
+"With what Indignation must every one that has had the Honour to be
+admitted to this _Great Man_, review the Doctor's charging him with
+being morose" (p. 15). He counters Swift's insulting reduction of the
+Great Man to a petty little man with an egregiously fulsome panegyric
+that magnifies the virtues of Sir Robert's public and private
+character, and concludes with abuse of Swift's character as an Irish
+dean disaffected from the government--hence deserving of permanent
+exile in Ireland.[1]
+
+The author of the fiery _Letter_ focuses on Swift's impiety--pointing
+to his wickedness, the sneering tone of his sacrilegious satire, his
+indiscreet joking about religion, all of which Swift's enemies were
+quick to emphasize as the outstanding features of _A Tale of a Tub_,
+as well as portions of the _Travels_. For example, even Gay, in the
+letter to Swift quoted above (17 November 1726) also noted that those
+"who frequent the Church, say his [Gulliver's] design is impious, and
+that it is an insult on Providence, by depreciating the works of the
+Creator,"--a line of attack soon to be pursued by Edward Young, James
+Beattie, and others who were not in the least charmed by Swift's
+satire. But Swift's friends were not idle; for it was precisely this
+bitter onslaught on Swift's religion in the _Letter_ that brought
+another writer to the defense in the ironically entitled _Gulliver
+Decypher'd: or Remarks on a Late Book, Intitled, Travels Into Several
+Remote Nations of the World, Vindicating the Reverend Dean on Whom it
+is Maliciously Father'd, With Some Conjectures Concerning the Real
+Author_ (1726).[2]
+
+This writer, probably John Arbuthnot, may be considered one of the
+earliest defenders of the religious orthodoxy of the _Travels_. He
+extracts passages from Swift's work, such as the Lilliputian quarrel
+over breaking eggs, the satire on corrupt bishops, and the affirmation
+of the principle of limited toleration for religious dissent in
+Brobdingnag as evidences of his belief, presented ironically, that
+"the Reverend Dean" could not possibly have fathered the work because
+the author of the _Travels_ did not have religious ideals in mind. One
+of the passages that this defender cites demonstrates that only a
+person like the religious dean could have made this observation about
+the concern for religious instruction by the Lilliputians before their
+fall from original perfection:
+
+     ... we cannot think, but that the courteous Reader is fully
+     satisfied, that the Reverend D---- we are vindicating, cannot
+     possibly be the Author of this part of the Book that is
+     maliciously ascrib'd to him; which is so very trifling, that it
+     is not to be imagined that a _serious_ D----n, who has Religion,
+     and the good of Souls so _much_ at heart, could act so contrary
+     to the Dignity of his Character merely to gratify a little Party
+     Malice, or to oblige a Set of People who are never likely to have
+     it in their Power to serve him or any of their Adherents.
+     Doubtless he, _good Man_, employs his Time to more sacred
+     Purposes than in writing Satyrs and Libels upon his Superiors, or
+     in composing _Grub-street_ Pamphlets to divert the Vulgar of all
+     Denominations.[3]
+
+
+Consider also his defense of Swift's exposure of the corrupt bishops,
+the "holy Persons" in the House of Lords (_Travels_, II, vi).
+Believing that Swift's pungent satire on the church hierarchy is good
+and true, he makes the dean himself the target of a playful bit of
+raillery, a type of irony for which Swift and Arbuthnot were both
+notorious:
+
+     Being _slavish prostitute Chaplains_ is certainly a good step
+     _towards becoming an Holy Lord_; but it does not always succeed,
+     as _some Folks_ very well know by Experience; for the same Degree
+     of Iniquity that can raise one Man to an _Archbishoprick_,
+     cannot lift another above a _Deanery_.[4]
+
+Such commentary suggests that at least one very early reader of the
+_Travels_ sensed the possibility of Swift's use of certain portions of
+his narrative to vent disappointment at his failure to receive the
+church preferment he thought he deserved and to carry on his personal
+vendetta against obstructive bishops like the "crazy Prelate" Sharpe,
+Archbishop of York, one of the detestable and "dull Divines" pilloried
+in the autobiographical poem "The Author Upon Himself" (1714).
+
+Concerning Swift's religious uniformitarianism, the author of
+_Gulliver Decypher'd_ defends Swift's understandable bias for the
+established Anglican Church as a vested interest, which in the
+_Travels_ is expressed through the giant king's strictures against
+civil liberty for religious dissenters (II, vi). He recommends this
+passage as a proper explanation of the principle restricting the civil
+liberty of potentially subversive dissidents, adding, furthermore,
+that "the Sectaries" themselves were "averse to all the Modes" of
+religion and opposed religious diversity.[5]
+
+All these remarks figured prominently in what may be considered the
+earliest debate on the religious meaning of the _Travels_. Certainly,
+some contemporary readers of Swift's major work were not insensitive
+to its religious significance, as even the commentary on the religious
+instruction of the upper classes--a relatively minor part of the
+satire which twentieth-century readers would easily overlook, as well
+as the more serious observations on the Endian dispute between
+Catholics and Protestants over the Eucharist demonstrate. Yet like all
+the early critics of the _Travels_, this author has nothing to say
+about this episode of central importance in the narrative about
+Lilliput, the reason probably being that its meaning was taken for
+granted by the Protestants of Swift's England. Thus the author of
+_Gulliver Decypher'd_ merely says the obvious: "The Reflections that
+will accrue to every Reader, upon this Conference [with Reldresal], is
+[_sic_] so obvious, that we shall not so much as hint at them."[6]
+Thus it is also not strange for the antagonistic clergyman to say
+nothing in his _Letter_ about the heart of the Lilliputian
+narrative--the profound allegory on the religious wars over the
+Eucharist and the serious issues raised by Swift. No doubt, however,
+he probably read Swift's interpretation of Gulliver's role in this
+conflict as a Tory version of history, and resented it accordingly.
+That is, like the Whigs of the day, he would object to an easy peace
+for Catholic France and would conclude that the Treaty of Utrecht
+concluding the War of the Spanish Succession, was not sufficiently
+punitive.
+
+Among the works that capitalized on the popularity of the _Travels_
+were the imitative _Memoirs of Lilliput_ (1727) and _A Voyage to
+Cacklogallinia_ (1727). The author of the _Memoirs_ emphasizes the
+evil character of the Lilliputians, particularly their lecherous
+clergy, and concludes with an account of the sufferings of Big-Endian
+exiles and extensive observations on the dangers of political
+factionalism. But he is most attracted by prurient sexual adventures.
+A vulgar work obviously meant to appeal to a neurotic taste for
+sexuality, it includes no attack on Swift as it explores at length
+some topics to which Gulliver in his memoirs only tangentially
+alludes. The second abortive effort, an animal satire of exotic
+talking fowl, also resembles Swift's satire as it touches on several
+similar topics--the hypocrisy of the people, the scepticism of their
+nobility, the love of luxury of the higher clergy--but again because
+it includes no comment on Swift's personal or public character, it is
+not relevant to a discussion of the angry _Letter from a Clergyman_.
+We can therefore pass quickly from these two works to perhaps the
+best, in the sense of the most stinging and most comprehensive,
+assault on Swift at the time of the publication of his _Travels_, that
+entitled _Gulliveriana_ (1728), by the Irish Dean of Clogher, Jonathan
+Smedley.
+
+"That rascall Smedley," about whom Swift once wrote in vexation (to
+Archdeacon Walls, 19 December 1716), is the very same hack who carried
+on the subsidized _Baker's News; or the Whitehall Journal_ (1722-23)
+on behalf of Sir Robert Walpole's government. He is also immortalized
+in Pope's _Dunciad_ (1728) as "a person dipp'd in scandal, and deeply
+immers'd in dirty work" (_Dunciad_ A, II, 279ff; B, II, 291ff). His
+_Gulliveriana_ (including the satires on Pope, the _Alexandriana_), a
+scurrilous anthology of abuse in the form of jingles, ballads,
+parodies in prose, and other satirical essays, was inspired by the
+recent publication of the Pope-Swift _Miscellany_. In his preface
+Smedley indicts Swift for an almost endless series of misdemeanors--for
+shifting his allegiance from the Whigs to the Tories; for restricting
+his verse to the burlesque style and its groveling doggerel manner;
+for failing in eloquence and oratory, theology and mathematics; and
+for being a pedant, poetaster, hack-politician, jockey, gardener,
+punster, and skilful swearer. In short Smedley insists that Swift is
+accomplished in the art of sinking according to the prescription which
+he and Pope wrote in the _Peri Bathos_, the first part of the
+_Miscellany_ that aroused Smedley's ire. Swift is, to sum up,
+"_ludicrous, dull, and profane_; and ... an Instance of _that Decay of
+Delicacy and Refinement_ which he mentions" (p. xxvii). As for the
+recently published _Gulliver's Travels_, Smedley shows it no mercy:
+
+     An abominable Piece! by being _quite out of Life_! The _Fable_ is
+     entirely ridiculous; the _Moral_ but ludicrous; the _Satire_
+     trite and worn out, and the _Instructions_ much better perform'd
+     by many other Pens. I call on his _Lilliputian Art of
+     Government_, and _Education of Children_ for Proof. (p. xix)
+
+It comes as no surprise to see that Smedley's Whiggish bias encourages
+him to detect "hints" in the _Travels_ of Swift's "Zeal for High
+Church and Toryism" (p. 280), so that obviously the work is
+"_Trifling_" and "_Nothing_."
+
+     The pious Dean has done what in him lies to render _Religion_,
+     _Reason_, and _common_ Sense ridiculous, and to set up in their
+     stead, _Buffoonry_, _Grimace_, and _Impertinence_, and, like
+     _Harlequin_, carries it off all with a _Grin_. (p. 267)[7]
+
+
+Among Smedley's clever parodies of Swift's writings are those of _A
+Tale of a Tub_, _Against Abolishing Christianity_, and _Gulliver's
+Travels_. The comprehensiveness of abuse is demonstrated in the nasty
+Gulliverian allegory, in which Swift is accused of being an ignorant,
+hypocritical, atheistical Irishman, high-flying Tory, and Jacobite
+Papist. Even Swift's sex life--his relationship with Stella and
+Vanessa--is made ugly (pp. 1-10). Indeed, Smedley believes that it is
+his duty to keep his readers well-informed about Swift's "odd"
+conduct; thus with evident relish he advises the poet to
+
+  Tell us what _Swift_ is now a doing:
+  Or whineing Politicks or Wooing;
+  With Sentence grave, or Mirth uncommon,
+  Pois'ning the Clergy, and the Women. (p. 41)
+
+Among the ballads, one will see the infamous "Verses, fix'd on the
+Cathedral Door, the Day of Dean Gulliver's Installment," which begins
+with the following delectable quatrain:
+
+  Today, this Temple gets a _Dean_,
+    Of Parts and Fame, uncommon;
+  Us'd, both to Pray, and to Prophane,
+    To serve both _God_ and _Mammon_.
+
+Then the poem proceeds with the usual diatribe of Swift's desertion of
+the Whigs, his atheism, high-church sympathies, and sacrilegious humor
+(pp. 77-79).
+
+In almost every conceivable literary style Smedley takes exception to
+Swift's divinity and politics and attempts to blacken Swift's
+character. As we should expect, differences over politics and religion
+were determining causes. Thus Smedley adores the outstanding literary
+Whig Addison, contrasting the polish and beauty of Addison's style
+with Swift's failures, ugliness, ineptitude, vulgarity, intolerable
+filthiness. Likewise, following the author of the _Letter_, he writes
+favorably of Steele, castigating Swift for his treacherous betrayal of
+Steele's friendship. But his catalogue of Swift's vices is far more
+intriguing than that of our clergyman, his gossip far more detailed
+and malicious. Clearly, Swift could not possibly do anything to please
+some of his readers. If their hostile reactions have any meaning, they
+prove that Swift's political connections and high-church sympathies
+prevented many of his contemporaries from responding to the virtues of
+_Gulliver's Travels_; and that, on the contrary, his chief work was
+tapped for evidence of the author's suspected impiety and partisan
+politics.
+
+That this hostility persisted far into the eighteenth century may be
+seen in the illuminating anecdote told in the 1780's by Horace
+Walpole, son of the "Great Man" so glowingly praised in the _Letter
+from a Clergyman_:
+
+     Swift was a good writer, but had a bad heart. Even to the last he
+     was devoured by ambition, which he pretended to despise. Would
+     you believe that, after finding his opposition to the ministry
+     fruitless, and, what galled him still more, contemned, he
+     summoned up resolution to wait on Sir Robert Walpole? Sir Robert
+     seeing Swift look pale and ill, inquired the state of his health,
+     with his usual old English good humour and urbanity. They were
+     standing by a window that looked into the court-yard, where was
+     an ancient ivy dropping towards the ground. "Sir," said Swift,
+     with an emphatic look, "I am like that ivy; I want support." Sir
+     Robert answered, "Why then, doctor, did you attach youself to a
+     falling wall?" Swift took the hint, made his bow, and retired.[8]
+
+
+Northern Illinois University
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+
+[1] In _The Intelligencer, No. III_ (1728), Swift defends Gay's satire
+on the "Great Man," _The Beggar's Opera_ (1728), and continues his
+offensive against Sir Robert Walpole. Here it may be mentioned that in
+his apology for the irony used by persecuted dissenters, Anthony
+Collins [_A Discourse Concerning Ridicule and Irony_ (1729)] remarks
+that "High-Church" overlooked Swift's "_drolling_ upon Christianity,"
+and was unwilling to punish him because of his "_Drollery_ upon the
+_Whigs_, _Dissenters_, and the _War_ with _France_." Collins
+interprets the effect of Swift's wit on his church career as follows:
+"And his Usefulness in _Drollery_ and _Ridicule_ was deem'd sufficient
+by the _Pious_ Queen _Anne_, and her _pious Ministry_, to intitle him
+to a Church Preferment of several hundred Pounds _per Ann._ ...
+notwithstanding [the objections of] a _fanatick High-Churchman_, who
+weakly thought _Seriousness_ in Religion of more use to High-Church
+than _Drollery_" (pp. 39-40).
+
+[2] G. A. Aitken, _The Life and Works of John Arbuthnot_ (Oxford,
+1892), pp. 123-124; and H. Teerink-Arthur H. Scouten, _A Bibliography
+of the Writings of Jonathan Swift_ (Philadelphia, 1963), No. 1216,
+consider it an uncomplimentary attack on Swift and his friends--but
+mistakenly, I believe. Lester M. Beattie, _John Arbuthnot:
+Mathematician and Satirist_ (Cambridge, Mass., 1935), p. 311,
+unqualifiedly rejects Arbuthnot's authorship of this work. But a
+correspondent to _Notes and Queries_, Sixth Series, VII (1883),
+451-452, argues convincingly for the attribution to Arbuthnot.
+
+[3] _Gulliver Decypher'd_ (London, 1726), pp. 29-30; reprinted in
+Arbuthnot's _Miscellaneous Works_ (Glasgow, 1751), I, 100.
+
+[4] _Gulliver Decypher'd_, pp. 26n, 35; _Misc. Works_, I, 97n, 104.
+
+[5] _Gulliver Decypher'd_, p. 38; _Misc. Works_, I, 106.
+
+[6] _Gulliver Decypher'd_, p. 25; _Misc. Works_, I, 97.
+
+[7] John Oldmixon, another Whig writer, repeats some of these slanders
+against Swift, even using some of the same words like "Trifling and
+Grimace"--in his reactions to the Swift-Pope _Miscellanies_ and
+_Gulliver's Travels_. He too finds the tales in the _Travels_
+frivolous because lacking a moral and the satire a debasing of "the
+Dignity of human Nature" (_The Arts of Logick and Rhetorick_ [London,
+1728], pp. 416-418).
+
+[8] John Pinkerton, _Walpoliana_ (London, n.d.), I, 126-127. For
+additional typical evidences of Horace Walpole's antipathy, see his
+angry assaults on Swift's insolence, arrogance, vanity, and hypocrisy
+(including sexuality), in his letters to Montagu, 20 June 1766 and to
+Horace Mann, 13 January 1780; and a remark in his _Anecdotes of
+Painting, Works_ (London, 1798), III, 438.
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+This facsimile of _A Letter from a Clergyman_ (1726) is reproduced
+from a copy in the British Museum.
+
+
+
+
+  A
+  LETTER
+  FROM A
+  Clergyman to his Friend,
+  With an ACCOUNT of the
+  TRAVELS
+  OF
+  Capt. _Lemuel Gulliver_:
+  AND A
+  Character of the Author.
+  To which is added,
+  The True REASONS why a
+  certain DOCTOR was made
+  a DEAN.
+
+
+  _LONDON_:
+  Printed for _A. MOORE_ near St. _Paul's_.
+  MDCCXXVI. _Price 3d._
+
+
+
+
+[Illustration: Decorative Border]
+
+A LETTER FROM A CLERGYMAN TO HIS FRIEND.
+
+
+_Sir_,
+
+To let the Town into the chief Motives for this Publication, I am
+obliged to acquaint them, that it is my Love of Truth and Justice,
+enforc'd by my Inclination to please my Friend; the Motive, all will
+undoubtedly allow to be a laudable one; and I could, if required,
+give so many unanswerable Reason for being influenc'd by the Latter,
+that to an impartial Reader it would appear almost as sufficient, for
+my proceeding thus, as the Former. Your Desires, Sir, shall always be
+comply'd with by me to the utmost of my Power; I ever have, and ever
+shall look upon your Requests as Commands; and as such esteem them my
+Honour.
+
+'Tis hardly to be imagined that an Objection will so readily be made
+to my Undertaking on any Account, as that of my Inequality to it;
+therefore I shall only hint, that as every Man in the like Case,
+unless totally incapable, may if requir'd, give his Judgment, provided
+he does it with Impartiality and Candour, so I shall be regardless
+what others say, while I strictly adhere to these Principles, and meet
+with your Approbation.
+
+You was pleased to say at our last Conversation, that you look'd upon
+me to be rather more capable of giving a just Character of the reputed
+Author of these Travels, than most Men in Town, from my having been
+Conversant with him in publick and private Life; in his early Days, as
+well as since; when he first appear'd in the World; at home and
+abroad; in the Camp and Cabinet; a little when he was in Favour, more
+since in Disgrace; and thus, Sir, your Expectations seem to enlarge.
+But here for the sake of our Cloth I must beg Leave to draw a Viel,
+and to keep it on, as much, and as long, as the Nature of my Design
+will admit: Was I indeed to follow the Captain's Example, what vile,
+what cruel Things might I not suggest of him? What hard Things could I
+not prove? Which many would recollect as well as my self, and more
+would believe: How might I justly turn his Artillery upon himself, and
+stifle him with that Filth he has so injuriously loaded others with;
+if the greatest Heap that ever was scraped together would stifle him
+who is entitled to it all; But I forbear now, and am resolved to do
+so, unless oblig'd to break this Determination to preserve, as I
+hinted before, the Consistency of my Undertaking.
+
+I began a little to hesitate at my Design, upon being informed, that
+the Captain was not here to answer for himself; thinking it something
+Dishonourable to attack a Man in this Method that was obliged to
+abscond; but when I considered that if these Enormities were not to be
+taken notice of, till the Author should venture to come into _Great
+Britain_, they might wholly pass with Impunity, my Dilemna was no
+more: No, the Captain is certainly gone for Life; he has now taken a
+Voyage from whence he never can, never dares return; this he'll find
+the longest he ever made, and the last from hence he can make.
+
+Besides when a Performance of this Nature is once publick, I conceive
+it submitted to the Judgment of all, and of Course to be approved,
+receiv'd or rejected, and in a Word, treated as various Opinions,
+Inclinations, Interests or Apprehensions influence those who peruse
+it: Some will undoubtedly approve of the Captain's Production because
+'tis scandalous and malicious; others will disapprove of it for the
+very same Reasons; for the Tasts of Mankind being as different as
+their Constitutions, they must of Consequence be often as opposite as
+the most absolute Contraries in Nature: A Knave loves and delights in
+Scandal, Detraction, Infamy, in blasting, ruining his Neighbour's
+Character, because these are consonant to the Depravity of humane
+Nature, and in themselves vile: Upon the very same Account an honest
+Man abominates them all, with the utmost Abhorrence of Soul.
+
+Thus having said as much as I think needful by way of Introduction; I
+would turn my Thoughts more immediately to the Work before me; I have,
+as you directed me, Sir, read it over with the greatest Distinction,
+and Exactness I was able; I've enter'd as much, as was possible for
+me, into the Spirit and Design of the Author: By the strictest
+Examination I've endeavoured to sift every material Passage; and I
+persuade my self the Drift of the Author has appear'd plain to me
+thro' the whole. From all which I conclude, that had Care been taken
+to have adapted them to modest virtuous Minds, by leaving out some
+gross Words, and lewd Descriptions, and had the Inventor's Intention
+been innocent, the first three Parts of these Travels would
+undoubtedly have proved diverting, agreeable, and acceptable to all;
+there is a great deal of Wit and more Invention in them; though, as
+is pretty usual in so large a Work of this Sort, there are some
+unnatural Incidents, and here and there an Inconsistency with it self.
+
+In the fourth Part, which is more than half of the second Volume, the
+Author flags, he loses his Vivacity, and in my Opinion, maintains
+little of his former Spirit, but the Rancour. This indeed appears most
+plentifully in this Part; and the Captain seems so wholly influenced
+by it, that he makes a sort of Recapitulation of Invectives he had
+vented before; and having receiv'd a fresh supply of Gall, appears
+resolv'd to discharge it, though he has no Way than by varying the
+Phrase, to express in other Words, the unjust Sentiments he had
+disclosed before: In this long tedious Part the Reader loses all that
+might have been engaging to him in the three former; the Capacity and
+Character given there of Brutes, are so unnatural; and especially the
+great Preheminence asserted of them, to the most virtuous and noble of
+humane Nature, is so monstrously absurd and unjust, that 'tis with the
+utmost Pain a generous Mind must indure the Recital; a Man grows sick
+at the shocking Things inserted there; his Gorge rises; he is not able
+to conceal his Resentment; and closes the Book with Detestation and
+Disappointment.
+
+But to return to the three former Parts, as I have said all I can with
+Justice say, on their Behalf; allow me now to shew a little of the
+great Malignity, and evil Tendency of their Nature: Here I might be
+abundantly prolix, had I not absolutely determined to be otherwise,
+the Field is large, the Matter very copious: Here, Sir, you may see a
+reverend Divine, a dignify'd Member of the Church unbosoming himself,
+unloading his Breast, discovering the true Temper of his Soul, drawing
+his own Picture to the Life; here's no Disguise, none could have done
+it so well as himself: Here's the most inveterate Rancour of his Mind,
+and a hoard of Malice, twelve Years collecting, discharged at once:
+Here's ENVY, the worst of all Passions, in Perfection; ENVY,
+the most beloved Darling of Hell; the greatest Abhorrence of Heaven;
+ENVY, the Crime Mankind should be the most ashamed of, having the
+least to say in Excuse for it; the Canker of the Soul, most uneasy to the
+Possessor; a Passion not to be gratify'd, not possible of Pleasure;
+the peculiar one would imagine of infernal Beings, and much of their
+Punishment. ENVY, is ever levell'd at Merit, and superior Excellence;
+and the most deserving are, for being such, the properest Objects of
+ENVY.
+
+View now, Sir, the Doctor, as I shall henceforward call him; and upon
+examination, I fear 'twill be found, that his Conduct too fully
+answers the Description of this detestable Passion: I shall be very
+plain and expressive; an honest Man will no more conceal the Truth,
+than deny it, when the Former may prove prejudicial to the Innocent:
+Whether the Government may ever think proper publickly to chastise the
+Doctor for his Insolence, I know nothing of; perhaps such snarling may
+be thought too low to engage such a Resentment: However this I am
+fully persuaded of, that as no good Government ought to be so insulted
+and male-treated; so there is no honest Man among us but would
+contribute the utmost in his Power to bring the Author, and those
+concerned with him to exemplary Punishment, in order to deter others
+from the like pernicious Practices for the future.
+
+What can be viler in the Intention? What may be worse in the
+Consequence, than an Attempt to interrupt the Harmony and good
+Understanding between his Majesty and his Subjects, and to create a
+Dislike in the People to those in the Administration; and especially
+to endeavour at this, in such a Juncture as the present? what could in
+all Probability be the Issue of bringing such Matters to bear, but the
+throwing ourselves and all _Europe_ into a Flame? ruining our Credit,
+destroying our Trade, beggaring of private Families, setting us a
+cutting one another's Throats; by which we should become an easy Prey
+to the common Enemy, who would at once subvert our Constitution, the
+happiest, the best in the World; destroy our Church Establishment; and
+subject us to all the Cruelty and Sufferings the unbounded Lust of
+Tyrants, and the insatiable Avarice of Priests could load us with.
+
+'Tis true, praised be Almighty God, and Thanks to the Wisdom of those
+in the Ministry, 'tis not in the Power of an Incendiary to do this;
+but the Attempt is not for that, at all the less criminal; we are too
+sensible of our Happiness to be either banter'd or frightned out of
+it; and 'tis therefore with the utmost Indignation all honest Minds,
+every True _Englishman_ treats the Persons who would disturb their
+Felicity. All are sensible of his Majesty's Wisdom, Goodness, Justice
+and Clemency. He is indeed the Father of his People who love and fear
+him as such; under his auspicious Reign we enjoy all the Happiness a
+Nation can enjoy: We have Religion and Liberty, Wealth, Trade, Peace,
+and the greatest Plenty at home; we are loved by our Friends, dreaded
+by our Enemies, and in the utmost Reputation abroad; so that in his
+Majesty's Reign and under the present Administration we have nothing
+so much to desire as the Continuance of both, being the Source under
+God, whence all our Felicity flows.
+
+But whatever the Doctor deserves, 'tis given out that he has been so
+much upon his Guard, that no Forms of Law can touch him; in this, Sir,
+I beg Leave to differ from his Abbettors; for as I take it, that Point
+has been settled for some Time; and seems by the geral Consent, the
+Determination has met with, to be rightly settled. So that his
+imaginary Cautions would be in vain; 'twas the Opinion of a late
+learned Chief Justice of the King's Bench, that the universal Notion
+of the People in these Cases, notwithstanding the artful Disguises of
+an Author, ought much to influence the Determinations of a Jury; for
+as he very judiciously added; how absurd was it to imagine that all
+the World should understand his Meaning but just that particular Judge
+and Jury, by whom he was to be try'd; thus far his Lordship. Besides,
+I conceive it, Sir, the Peoples Judgment ought to be regarded; or an
+ill designing Man may do much harm, with great Impunity: If in Order
+to it, he should pretend only to amuse, and deliver himself in
+obstruse Terms, such as may naturally enough be apply'd to the
+Disadvantage of the Publick, and are so apply'd; surely in this Case
+he ought to be punish'd for the Detriment that ensues and for not
+speaking the Truth, if he meant the Truth, in plain Terms.
+
+But leaving this Point to those who are more capable to determine it;
+I go forward: The Doctor divests himself of the Gentleman and
+Christian entirely; and in their stead assumes, or if my Instructions
+are right, I should rather have said, discloses the reverse to them
+both; a Character too gross to be describ'd here and is better
+conceiv'd than express'd; he makes a Collection of all the meanest,
+basest, Terms the Rabble use in their Contests with one another in the
+Streets, and these he discharges without any other Distinction than
+only, that they who are Persons of the greatest Worth and Desert are
+loaded with the greatest Number of 'em.
+
+He spares neither Age or Sex, neither the Living or the Dead; neither
+the Rich, the Great, or the Good; the best of Characters is no Fence,
+the Innocent are the least secure; even his Majesty's Person is not
+sacred, the Royal Blood affords no Protection here; he equally
+endeavours to bring into Contempt with the People, his Majesty, the
+Royal Family, and the Ministry.
+
+The next great Attack, as all People understand it, is no less than
+upon a _British_ Parliament; this August Assembly, the Wisest, the
+Noblest, the most Awful in the World, he treats with Words of the
+utmost Scurrility, with _Billingsgate_ Terms of the lowest Sort; this
+Body of the best Gentlemen in the Kingdom he calls Pedlars,
+Pickpockets, Highway-men, and Bullies; Words never spoke of a
+_British_ Parliament before, and 'twould be a National Reproach they
+should now pass unpunished: This is beyond all Bounds; who that are
+_English_ Men can with Temper think of such an Insult upon the Body of
+their Representatives; the Centre of the National Power; the great
+Preserver of our Laws, Religion and Liberties, and of all, that as Men
+and Christians we ought to hold dear and valuable.
+
+I wish I could keep in better Terms with my old Companion, my
+Inclination's good t'wards it, but notwithstanding that, and all my
+Resolutions, I find it impracticable; his Conduct is so enormously
+bad, 'tis insufferable; humane Nature must be worse than he has
+represented it, and I never saw it look so ghastly before, to bear
+with him.
+
+All that have read these Travels must be convinc'd I do the Doctor no
+Injustice by my Assertions: His Method of forming his Characters seems
+to be new, it looks as if he first drew up a Set of ill Names and
+reproachful Epithets, and then apply'd them as he thought proper,
+without regarding at all, whether the Persons they were so apply'd to,
+deserv'd such Treatment or not; and in this, tho' the concurrent
+Testimony of Thousands or Millions was against him, it seems to have
+signify'd nothing; tho' daily Experience and universal Consent prov'd
+the contrary, they appear to have been of no Weight with the Doctor;
+he knew very well t'would sufficiently answer his End if by boldly and
+roundly asserting whatever he thought proper, and sticking at no
+Method of Defamation he should make the whole appear plausible and
+gain Adherents; and therefore with the utmost Assurance he affirms
+this Woman to be a Whore, that a Bawd, this Man a Pimp, that a Pathick
+tho' neither of them ever gave any Reason to be thought such, or were
+ever thought such, before.
+
+Whether the Doctor would like to be serv'd thus himself let the World
+determine, and that they may the better do it I shall give them one
+Instance, using almost the Doctor's own Words, and applying them to
+himself as thus; Doctor COPPER-FARTHING, was by Pimping, Swearing,
+For-swearing, Flattering, Suborning, Forging, Gaming, Lying, Fawning,
+Hectoring, Voting, Scribling, Whoring, Canting, Libeling,
+Free-thinking, endeavouring to ruin the _British_ Constitution, set
+aside the _Hanover_ Succession, and bring in a Popish Pretender; by
+prostituting his Wife, his Sister, his Daughter, advanced to be a
+DEAN: Now, Sir, this Character being form'd, as I observ'd, before I
+had concluded who to bestow it on, I am oblig'd to make some little
+Alteration, and to do the Doctor no injustice, I take away that whole
+Sentence, _by Prostituting his Wife_, _his Sister_, _his Daughter_;
+because being well assur'd he never had any of his own; if such have
+been used so by him they must have belong'd to other People: If I had
+not pitch'd upon the Doctor you can't but be sensible, like him, I
+could have made this Character have serv'd with some small Curtailings
+or Additions an Admiral, a General, a Bishop, a Minister of State, or
+any other Person I had a mind to be angry with, and was I set upon
+abusing an hundred of each, by the Power of Transformation, t'would be
+sufficient for them all.
+
+Don't look upon this, Sir, as my Invention, I assure you 'tis wholly
+the Doctor's; may the Reputation of it be all his own: 'Tis thus he
+treats the wisest, the greatest Men in this Nation; Nobility, Ladies
+and Gentlemen of the best Families and brightest Characters in the
+Kingdom; and his Malice is greatest where Worth and Virtue are most
+conspicuous; this of Course must engage him to vent a very large
+Portion of his Rage against the Family and Person of the greatest Man
+this Nation ever produced. But how vain is the Attempt here? How
+impotent, as well as base the Malice? There is no immediate Fence
+indeed against an infamous Tongue, and must often be for some Time
+submitted to; but in this Case 'tis otherwise; what the Doctor asserts
+of this Person and his Family is so universally known to be false, and
+condemned as such by the Voice of the whole Nation; that the Doctor
+has the Mortification to find his Aspersions here, do not take in the
+least.
+
+With what Indignation must every one that has had the Honour to be
+admitted to this _Great Man_, review the Doctor's charging him with
+being morose; and what Contempt must they have of the Doctor's
+Veracity, who to satisfy the vilest Passion will thus sacrifice his
+Judgment: What a Cloud of Witnesses might I have, if required, to set
+in Opposition to this single Assertion of the Doctor's, he is indeed
+the only Person that ever was known to have thought such a Thing. The
+great Condescention and Kindness, the good Nature and Complacency with
+which that Person treats all Mankind, render him amiable to all; he
+has been so particularly remarkable for this, that as he does the best
+the kindest Things in the most agreeable Way, which inhances their
+Value, so when he is obliged from the Nature of a Request to deny it,
+he so qualifies the Refusal, that the Person concerned is not
+immediately sensible of a Disappointment; and from the Excess of his
+good Nature, when convinc'd of the Difficulties and Distresses of
+Families he'll out of his private Purse remove those Uneasiness's,
+which he could not in honour have done out of the Nation's Money; and
+thus Multitudes hourly bless his Name and Family, who subsist by his
+Bounty alone: He daily feeds the Hungry, cloaths the Naked, delivers
+the Prisoner; and what I look upon a thousand Degrees beyond the
+other, he saves and raises many a Family just sinking into Ruine;
+delivers them from Infamy, Imprisonment, and Want; which to those that
+never felt either, and have the Appearance of all in View, must be
+Circumstances more dreadful than 'tis possible can be rightly
+conceived of by any, but those who have themselves been in them: To
+help these has been his peculiar Care. Here's one of the best Acts can
+be done by Man in private Life; these Things will, they must, they
+ought to endear him; I could carry this, if necessary, to an almost
+boundless Length; was I to trace this great Man thro' every Scene of
+private Life, you'd find the whole a noble Record, of which this is an
+Epitome; such as ne'er was exceeded, or perhaps equall'd.
+
+I look upon what I have hitherto said as necessary to my Undertaking;
+indulge me now, Sir, in a Digression that seems naturally enough to
+present it self, and may be better made here than afterwards; the
+Transition is easy, from the private, allow me to pass to the publick
+Life, of the Person I have been speaking: Here I might make a general
+Challenge and say; who can charge him with want of Wisdom, Judgment,
+Knowledge, Integrity, Uprightness, Justice, or Clemency, and a long
+_&c._ But this would be but faint to the Latitude I may with Justice
+take the other Way: This great Man, is the wise Director of the
+publick Affairs; he is the Delight of his Royal Master, and the
+Darling of the People; he is an Honour to his Nation, adds a Lustre to
+the Crown, and is deservedly valued by us and all _Europe_, as a
+general publick Blessing; born for the Good, the Happiness of Mankind;
+and arrived to a Capacity of serving his Country best, when his
+Country stands most in Need of his Service; and if his Life's
+continued, which may the great God grant, so that he compleat his
+Designs for the Publick Good; _Great Britain_ will undoubtedly be led
+to espouse her true Interest; her Commerce will be extended and
+established; and we shall become a more flourishing, united, powerful
+People, than we are, even at present; and we are now so, in all
+Respects beyond whatever we were before.
+
+Might I be allow'd to enter upon his Conduct during the late, and
+still critical situation of Affairs in _Europe_, what a noble Scene
+might I open; how has the Honour and Interest of the Nation been
+persu'd and maintain'd, notwithstanding all the various Turns in
+Affairs? How has the Ambition of Princes been baulkt? their Councils
+over-rul'd, their Measures broke, and their greatest Designs brought
+to nothing by him? How by one Turn of his Hand has he preserv'd the
+Peace of _Europe_, prevented the Effusion of Blood, and Treasure, kept
+us from War abroad, from Invasions at home, tho' most apparently
+threaten'd with both? How, in a word, has he, by a Management,
+peculiar to himself secur'd that Tranquility in _Europe_, which if
+broke in upon, might have cost the Lives of a million of Men, an
+immense Treasure, and many Years to have restor'd? and all this
+without any Expence but what is an Advantage to us. How will a future
+Ministry become wise from this great Pattern. How easy will it be for
+a Man to make a Figure at the Head of Affairs when in all Difficulties
+he has nothing else to do but to act in Conformity to his Measures?
+Measures, that have been try'd and found to answer; Measures, that as
+they have done, in the like Cases will always do; but I find, Sir, I
+must put a Restraint upon my Inclination, or this agreeable Subject
+would run me much beyond the Limits of a Letter; and indeed, it is a
+very great Restraint I put upon myself to break off without saying
+much more, for how can an honest true-hearted _Englishman_ bear to
+have the Person insulted, who is so much the Cause of his Prosperity
+and Happiness; whose ONE general intention is the Good of his Country;
+who is indefatigable in his Endeavours to procure it; who is the Glory
+of the present Age, and will be admir'd and imitated while good or
+great Men continue upon Earth.
+
+I can't conclude without observing to you, Sir, that this Work is so
+far a finishing Stroke with the Doctor, that he seems by it to have
+compleated his Character: In a former Performance, he levelled his
+Jests at Almighty God; banter'd and ridiculed Religion and all that's
+good and adorable above: By this, he has abused and insulted those,
+who are justly valued by us, as the best, the greatest below: How his
+present Conduct may be relished, Time, I say, will best discover; his
+former, had a Resentment attending it, and her late Majesty would not
+be prevailed upon to admit him a Prebendary of _Windsor_,
+notwithstanding very powerful and pressing Instances were made on his
+Behalf: Her Majesty was most highly displeased, she would not allow
+him to come near her Person; her Majesty said, she had been but too
+credibly informed of the Immorality of his Life; and as for his
+Writings, she knew them to be profane and impious; that he was the
+Scandal of his Cloth, a Reproach to Religion; and therefore she could
+not in Conscience give him any Preferment in the Church. This Answer
+ruffled the Doctor, and made his Friends uneasy; however, they set
+down with it for the present, and gave over their Sollicitations; but
+the Doctor having been the Minion of a great Minister, and deeply
+engaged in the dirty Work of the Day, his Patron thought himself
+obliged to take Care of him; and upon a D----y in _Ireland_ becoming
+vacant, he prevailed with the Queen to grant it him; which her
+Majesty did not at last without much Reluctancy; nor would have done
+it at all, as 'twas then thought, but to remove the Doctor further
+from her, and get rid of the Sollicitations, upon his Account, that
+were become very uneasy to her.
+
+One might have imagined, that when the Doctor had got thus into snug,
+warm Quarters, he would have been easy; and at least not have flown in
+the Face, and broke out, as it were, into open Acts of Hostility with
+those by whom he is protected and defended there; those that secure to
+him all the Happiness, that Ease, Indolence, and Fulness can furnish
+out to him: What Pretence has he more than any other Man, to a
+Thousand a Year for doing nothing, or little more than strutting
+behind a Verger, and Lording it ever Men honester, and more deserving,
+than himself, and yet can't he be contented? How scandalous wou'd
+Conduct like this be in a Soldier; was an Officer, one that eats his
+Majesty's Bread, and wears his Cloth, to behave thus, what would he
+deserve? I ought, indeed, to offer some Apology for only making the
+Supposition; the Comparison won't hold, 'tis not just; the Officers
+are all Men of Honour, they not only abhor all such Conduct, but they
+look upon it their Duty, in which they are certainly right, to do
+whatever is in their Power for promoting the Honour and Interest of
+their Royal Master, and those intrusted by him with the
+Administration; and for furthering their Reputation and Welfare: This
+ought, indeed, to be the Temper of the Doctor; Is he not paid, and
+well paid too, to preach up Charity and Benevolence; to teach People
+their Duty to the superior Powers; to tell them of their Obligations
+to good Governors; to inculcate a Love and a Reverence for these in
+the Minds of all; to engage them to Peace and a dutiful Behaviour; in
+a Word, to fear God and honour the King; and obey those for Conscience
+Sake who are by his Majesty placed with Authority over them. This is
+the Sum of what the Doctor has in Charge, and what he is under the
+most solemn Obligations to comply with. Only a bear Neglect of these
+Things would be sufficiently Criminal; what then must the Man deserve,
+who could be found so hardy, in Breach of his Oath and Honour, to act
+the Reverse of all these? And such is the Doctor: He contemns the
+Power he should revere; he strives to undermine that Government he
+ought to uphold; he endeavours at Reflexions upon those he should have
+in the highest Honour and Esteem; he is leading People into
+Disaffection and Disloyalty who are committed to his Care for right
+Information; he poisons those he is paid to feed; he receives the
+Nation's Money, but sides with its Enemies; with those whose Desires
+and constant Endeavours are to enslave and ruin us: What the Doctor
+deserves is easy to determine; but what he may meet with must be left
+to others; I shall but say, a Soldier for Neglect of Duty only, is
+discarded, never fails to meet with Disgrace, and often Death; here is
+what's much worse than the utmost such a Charge can amount to; that
+the Cloth should make such a Difference that he who ought to have the
+severest Treatment, finds the most favourable is no great Encomium
+upon our national Justice.
+
+I cannot but be a little surpris'd at the impolitick Method of the
+Doctor's proceeding; who should attack Mankind in a Way he is himself
+the most to be exposed in of almost any Man breathing; I have given
+you a small Sketch of it here, Sir; but no further than was absolutely
+necessary; if I find it requisite you may hereafter expect from me a
+full and true Account of the Doctor's Life, and Conversation for
+upwards of thirty Years past; which will disclose such Scenes that all
+Mankind must look upon it a Piece of great Assurance in the Doctor to
+offer at the private characters of others, when his own has been so
+very defective.
+
+I shall trespass no longer upon your Patience, than to do myself the
+Honour to assure you, and all the World, that I am,
+
+      _Sir, Your most obedient,_
+
+        _Devoted humble Servant_, &c:
+
+_Dec. 7. 1726._
+
+
+
+
+  WILLIAM ANDREWS CLARK
+  MEMORIAL LIBRARY
+  UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+PUBLICATIONS IN PRINT
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+PUBLICATIONS IN PRINT
+
+
+1948-1949
+
+16. Henry Nevil Payne, _The Fatal Jealousie_ (1673).
+
+18. Anonymous, "Of Genius," in _The Occasional Paper_, Vol. III, No. 10
+    (1719), and Aaron Hill, Preface to _The Creation_ (1720).
+
+
+1949-1950
+
+19. Susanna Centlivre, _The Busie Body_ (1709).
+
+20. Lewis Theobald, _Preface to the Works of Shakespeare_ (1734).
+
+22. Samuel Johnson, _The Vanity of Human Wishes_ (1749), and two
+    _Rambler_ papers (1750).
+
+23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+
+1950-1951
+
+26. Charles Macklin, _The Man of the World_ (1792).
+
+
+1951-1952
+
+31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751),
+    and _The Eton College Manuscript_.
+
+
+1952-1953
+
+41. Bernard Mandeville, _A Letter to Dion_ (1732).
+
+
+1963-1964
+
+104. Thomas D'Urfey, _Wonders in the Sun; or, The Kingdom of the Birds_
+     (1706).
+
+
+1964-1965
+
+110. John Tutchin, _Selected Poems_ (1685-1700).
+
+111. Anonymous, _Political Justice_ (1736).
+
+112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_ (1698).
+
+114. _Two Poems Against Pope_: Leonard Welsted, _One Epistle to Mr. A.
+     Pope_ (1730), and Anonymous, _The Blatant Beast_ (1742).
+
+
+1965-1966
+
+115. Daniel Defoe and others. _Accounts of the Apparition of Mrs. Veal._
+
+116. Charles Macklin, _The Covent Garden Theatre_ (1752).
+
+117. Sir George L'Estrange, _Citt and Bumpkin_ (1680).
+
+118. Henry More, _Enthusiasmus Triumphatus_ (1662).
+
+119. Thomas Traherne, _Meditations on the Six Days of the Creation_ (1717).
+
+120. Bernard Mandeville, _Aesop Dress'd or a Collection of Fables_ (1704).
+
+
+1966-1967
+
+123. Edmond Malone, _Cursory Observations on the Poems Attributed to Mr.
+     Thomas Rowley_ (1782).
+
+124. Anonymous, _The Female Wits_ (1704).
+
+125. Anonymous, _The Scribleriad_ (1742). Lord Hervey, _The Difference
+     Between Verbal and Practical Virtue_ (1742).
+
+
+1967-1968
+
+129. Lawrence Echard, Prefaces to _Terence's Comedies_ (1694) and
+     _Plautus's Comedies_ (1694).
+
+130. Henry More, _Democritus Platonissans_ (1646).
+
+132. Walter Harte, _An Essay on Satire, Particularly on the Dunciad_ (1730).
+
+
+1968-1969
+
+133. John Courtenay, _A Poetical Review of the Literary and Moral Character
+     of the Late Samuel Johnson_ (1786).
+
+134. John Downes, _Roscius Anglicanus_ (1708).
+
+135. Sir John Hill, _Hypochondriasis, a Practical Treatise_ (1766).
+
+136. Thomas Sheridan, _Discourse ... Being Introductory to His Course of
+     Lectures on Elocution and the English Language_ (1759).
+
+137. Arthur Murphy, _The Englishman From Paris_ (1736).
+
+138. [Catherine Trotter], _Olinda's Adventures_ (1718).
+
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+are available in paperbound units of six issues at $16.00 per unit,
+from the Kraus Reprint Company, 16 East 46th Street, New York, N.Y.
+10017.
+
+Publications in print are available at the regular membership rate of
+$5.00 yearly. Prices of single issues may be obtained upon request.
+Subsequent publications may be checked in the annual prospectus.
+
+
+
+
+The Augustan Reprint Society
+
+  WILLIAM ANDREWS CLARK
+  MEMORIAL LIBRARY
+
+
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+2520 Cimarron Street (at West Adams), Los Angeles. California 90018
+
+
+_Make check or money order payable to_
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+
+
+
+
+William Andrews Clark Memorial Library: University of California, Los
+Angeles
+
+THE AUGUSTAN REPRINT SOCIETY
+
+2520 CIMARRON STREET, LOS ANGELES, CALIFORNIA 90018
+
+
+_General Editors_: William E. Conway, William Andrews Clark Memorial
+Library; George Robert Guffey, University of California, Los Angeles;
+Maximillian E. Novak, University of California, Los Angeles
+
+_Corresponding Secretary_: Mrs. Edna C. Davis, William Andrews Clark
+Memorial Library
+
+
+The Society's purpose is to publish rare Restoration and
+eighteenth-century works (usually as facsimile reproductions). All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning memberships in the United States and Canada
+should be addressed to the Corresponding Secretary at the William
+Andrews Clark Memorial Library, 2520 Cimarron Street, Los Angeles,
+California. Correspondence concerning editorial matters may be
+addressed to the General Editors at the same address. Manuscripts of
+introductions should conform to the recommendations of the MLA _Style
+Sheet_. The membership fee is $5.00 a year in the United States and
+Canada and £1.19.6 in Great Britain and Europe. British and European
+prospective members should address B. H. Blackwell, Broad Street,
+Oxford, England. Copies of back issues in print may be obtained from
+the Corresponding Secretary.
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+are available in paperbound units of six issues at $16.00 per unit,
+from the Kraus Reprint Company, 16 East 46th Street, New York, N.Y.
+10017.
+
+
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA
+
+
+
+
+REGULAR PUBLICATIONS FOR 1969-1970
+
+139. John Ogilvie, _An Essay on the lyric poetry of the ancients_ (1762).
+     Introduction by Wallace Jackson.
+
+140. _A Learned Dissertation on Dumpling_ (1726) and _Pudding burnt to pot
+     or a compleat key to the Dissertation on Dumpling_ (1727).
+     Introduction by Samuel L. Macey.
+
+141. Selections from Sir Roger L'Estrange's _Observator_ (1681-1687).
+     Introduction by Violet Jordain.
+
+142. Anthony Collins, _A Discourse concerning Ridicule and Irony in
+     writing_ (1729). Introduction by Edward A. Bloom and Lillian D. Bloom.
+
+143. _A Letter from a clergyman to his friend, with an account of the
+     travels of Captain Lemuel Gulliver_ (1726). Introduction by Martin
+     Kallich.
+
+144. _The Art of Architecture, a poem. In imitation of Horace's Art of
+     poetry_ (1742). Introduction by William A. Gibson.
+
+
+
+SPECIAL PUBLICATION FOR 1969-1970
+
+Gerard Langbaine, _An Account of the English Dramatick Poets_ (1691),
+    Introduction by John Loftis. 2 Volumes. Approximately 600 pages. Price
+    to members of the Society, $7.00 for the first copy (both volumes),
+    and $8.50 for additional copies. Price to non-members, $10.00.
+
+
+Already published in this series:
+
+1. John Ogilby, _The Fables of Aesop Paraphras'd in Verse_ (1668), with
+   an Introduction by Earl Miner. 228 pages.
+
+2. John Gay, _Fables_ (1727, 1738), with an Introduction by Vinton A.
+   Dearing. 366 pages.
+
+3. _The Empress of Morocco and Its Critics_ (Elkanah Settle, _The
+   Empress of Morocco_ [1673] with five plates; _Notes and Observations
+   on the Empress of Morocco_ [1674] by John Dryden, John Crowne and
+   Thomas Snadwell; _Notes and Observations on the Empress of Morocco
+   Revised_ [1674] by Elkanah Settle; and _The Empress of Morocco. A
+   Farce_ [1674] by Thomas Duffett), with an Introduction by Maximillian
+   E. Novak. 348 pages.
+
+4. _After THE TEMPEST_ (the Dryden-Davenant version of _The Tempest_
+   [1670]; the "operatic" _Tempest_ [1674]; Thomas Duffett's
+   _Mock-Tempest_ [1675]; and the "Garrick" _Tempest_ [1756]), with an
+   Introduction by George Robert Guffey. 332 pages.
+
+
+Price to members of the Society, $3.50 for the first copy of each
+title, and $4.25 for additional copies. Price to non-members, $5.00.
+Standing orders for this continuing series of Special Publications
+will be accepted. British and European orders should be addressed to
+B. H. Blackwell, Broad Street, Oxford, England.
+
+
+
+
+Transcriber's Notes:
+
+  Passages in italics indicated by underscore _italics_.
+
+  Long "s" has been modernized.
+
+  Misprint "and and" corrected to "and" (page 9).
+
+  Misprint "equall d" corrected to "equall'd" (page 16).
+
+  Extra line spacing in the Introduction is intentional to represent
+  both the end of the quote and the beginning of a new paragraph.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of A Letter From a Clergyman to his
+Friend,, by Anonymous
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LETTER FROM A CLERGYMAN ***
+
+***** This file should be named 29189-8.txt or 29189-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/9/1/8/29189/
+
+Produced by Chris Curnow, Stephanie Eason, Joseph Cooper
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
