@@ -26,4 +26,5 @@ https://github.com/AKnightWing/AuthID
 
 ## Authors
 Siddharth Chaini
+
 Siddharth Bachoti
