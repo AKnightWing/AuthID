@@ -6,6 +6,7 @@ A Python3 program to identify the author of an unknown text. This is done by ana
 You need python3 and nltk installed. Further, there should be 2 directories - "Train Data" and "Test Data", present in the directory where the py file is located.
 
 The directory structure is as follows:
+<!-- language: lang-none -->
 <ANY FOLDER>
 ├── AuthID.py
 ├── Train Data/
