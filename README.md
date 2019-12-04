@@ -35,11 +35,11 @@ For example, for 3 authors, the directory structure is as follows:
 ## Running it from command line
 For Linux/Unix:
 ```python
-python3 ...py
+python3 AuthID.py
 ```
 For Windows:
 ```
-python ...py
+python AuthID.py
 ```
 
 ## Github Link
@@ -50,5 +50,5 @@ https://github.com/AKnightWing/AuthID
 
 ## Authors
 Siddharth Chaini
-
+&
 Siddharth Bachoti
