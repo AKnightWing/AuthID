@@ -43,7 +43,7 @@ python AuthID.py
 ```
 
 ## Github Link
-https://github.com/AKnightWing/AuthID
+https://github.com/siddharthchaini/AuthID
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
